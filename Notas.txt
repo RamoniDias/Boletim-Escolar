@@ -53,7 +53,7 @@
       *----------------------------------------------------------------*
        20000-PROCESSA SECTION.
            DISPLAY "Informe o nome do aluno"
-                                       AT 2025
+                                       
            ACCEPT W-ALUNO              AT 0625
            DISPLAY W-BRANCOS           AT 2025
            IF KEY-ESC
